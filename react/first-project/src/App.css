@@ -1,0 +1,66 @@
+ul li {
+    list-style-type: square;
+    color: deeppink;
+    font-size: 30px;
+    margin-left: 20px;
+}
+
+.link {
+    color: darkorchid;
+    font-size: 35px;
+    margin-left: 30px;
+    display: flex;
+    justify-content: space-around;
+}
+
+a {
+    padding-left: 30px;
+    text-decoration: none;
+    color: coral;
+}
+
+.technologies {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 35px;
+}
+
+.google {
+    color: blue;
+    font-size: 30px;
+    text-align: center;
+}
+
+.field {
+    margin: auto;
+    width: 550px;
+    font-size: 16px;
+    padding: 13px 18px;
+    border-radius: 30px;
+    display: block;
+    outline: none;
+    border: none;
+    box-shadow: 0 1px 6px 0 rgba(44, 45, 44, 0.28);
+}
+
+.star {
+    margin-left: 100px;
+    font-size: 33px;
+    color: gold;
+}
+
+.nav {
+    font-size: 20px;
+    margin-left: 30px;
+    color: chartreuse;
+
+}
+
+.accord {
+    display: flex;
+}
+
+.accord li {
+    list-style-type: none;
+    padding-left: 40px;
+}
